@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de tu mano, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Roce de tu mano, Vol. 2** (roce-de-tu-mano-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:42:24.230866 | `v1` | `071741f962ba394124999c90515a403836202ad4eec5cbe5af02eab91c469dab` | `431385a3dfc17ecbe21aab3c6017e4ce6faea40130bea431a462e0ef4b768037` | `2026-06-21_roce-de-tu-mano-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
